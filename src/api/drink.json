@@ -1,0 +1,27 @@
+[
+    {
+        
+        "name":"Fanta",
+        "price":30
+    },
+    {
+        
+        "name":"Coca-Cola",
+        "price":35
+    },
+    {
+        
+        "name":"Sprite",
+        "price":27
+    },
+    {
+        
+        "name":"Моршинська",
+        "price":30
+    },
+    {
+        
+        "name":"Живчік",
+        "price":30
+    }
+]
